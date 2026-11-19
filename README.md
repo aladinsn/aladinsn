@@ -13,9 +13,8 @@
 ### 🧑‍💻 About me
 
 - 🎓 **Master of Science in Engineering (MSE)** student at HES-SO, data science track, after a **Bachelor in Data Engineering** at **HEIG-VD**
-- 🤖 What I enjoy: applied **machine learning**, **time series forecasting**, and everything it takes to put a model into production (**MLOps**, **cloud**)
+- 💼 What I enjoy most: building **business solutions** that solve real problems, and **deploying** them all the way to production (**cloud**, **MLOps**)
 - ⚡ I also like going low-level: a Transformer block written in **C**, accelerated with **OpenMP** and **CUDA**
-- 🌱 Currently exploring: time series foundation models (TimesFM) versus classical statistical approaches
 - 🇨🇭 Based in French-speaking Switzerland
 
 ---
